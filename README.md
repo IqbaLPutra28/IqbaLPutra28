@@ -12,7 +12,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="500" src="https://scontent-cgk1-2.xx.fbcdn.net/v/t39.30808-6/498691530_1379332293189851_5723832723714508950_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeHSG8JV7YZSIDRM4Jp0SHF0dvx4dyAAm_J2_Hh3IACb8pw7Ul_EmMFiXUrD1aVM22roLpM6l3NHVxPrlK7V0WOh&_nc_ohc=RBU69k2PhjAQ7kNvwFR4Ys6&_nc_oc=AdmTi3GX2Twjne-VFzRYOMAFHA021eH57okfaploP1znwuk1lbxrBuT_YUX_-1tsvZU&_nc_zt=23&_nc_ht=scontent-cgk1-2.xx&_nc_gid=fOw_fVWHzTVZxTlSGrPKfA&oh=00_AfKWjkuulxfFyMuRayfgUpRC5EOySHgAp2S9hNU6hgB5mQ&oe=682F8F8E"  />
+  <img height="350" src="https://scontent-cgk1-2.xx.fbcdn.net/v/t39.30808-6/498691530_1379332293189851_5723832723714508950_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeHSG8JV7YZSIDRM4Jp0SHF0dvx4dyAAm_J2_Hh3IACb8pw7Ul_EmMFiXUrD1aVM22roLpM6l3NHVxPrlK7V0WOh&_nc_ohc=RBU69k2PhjAQ7kNvwFR4Ys6&_nc_oc=AdmTi3GX2Twjne-VFzRYOMAFHA021eH57okfaploP1znwuk1lbxrBuT_YUX_-1tsvZU&_nc_zt=23&_nc_ht=scontent-cgk1-2.xx&_nc_gid=fOw_fVWHzTVZxTlSGrPKfA&oh=00_AfKWjkuulxfFyMuRayfgUpRC5EOySHgAp2S9hNU6hgB5mQ&oe=682F8F8E"  />
 </div>
 
 ###
